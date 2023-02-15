@@ -1,0 +1,5 @@
+arquivo = open("usuario.txt","w")
+texto = input("Digite um texto: ")
+arquivo.write(texto)
+arquivo.close()
+print("Gravado com sucesso.")
