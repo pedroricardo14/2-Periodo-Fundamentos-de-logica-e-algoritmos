@@ -1,2 +1,2 @@
 # programacao-estruturada-e-orientada-a-objetos
-Repositório de programas de orientação a objetos em Python desenvolvidos no IFRN.
+<p>Programas em Python desenvolvidos na matéria de fundamentos de lógica e algoritmos no IFRN.</p>
